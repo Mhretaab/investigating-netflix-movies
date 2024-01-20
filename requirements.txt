@@ -1,0 +1,7 @@
+# This is an example requirements.txt file
+# You can add your project's dependencies here
+
+numpy       # Example dependency with a version range
+matplotlib          # Another example with a specific version
+pandas
+notebook
